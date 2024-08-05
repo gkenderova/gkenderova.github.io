@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hiya! I’m a PhD candidate in [Human Centered Design and Engineering](https://www.hcde.washington.edu/) at the University of Washington. I am advised by [Sean A. Munson](https://www.smunson.com/) and am currently researching ways in which we can leverage narrative and storytelling to support mental health. I am interested in understanding the impact of stories on our motivation for self-transformation and how we can use narrative techniques to support personal informatics for mental health.
+Hiya! I’m a PhD candidate in [Human Centered Design and Engineering](https://www.hcde.washington.edu/) (HCDE) at the University of Washington. I am advised by [Sean A. Munson](https://www.smunson.com/) and am currently researching ways in which we can leverage narrative and storytelling to support mental health. I am interested in understanding the impact of stories on our motivation for self-transformation and how we can use narrative techniques to design personal informatics technology that better supports mental health.
 
-I graduated from [Pomona College](https://www.pomona.edu/) in 2021, where I got my BA in Computer Science and Media Studies. During my time there, I was part of the HCI Lab where I did research on online health communities for mental health and improving patient-provider collaboration alongside [Prof. Alexandra Papoutsaki](https://cs.pomona.edu/~apapoutsaki/) and [Prof. Daniel Epstein](https://depstein.net/) (University of California, Irvine).
+I got my MS in HCDE in 2023. I graduated from [Pomona College](https://www.pomona.edu/) in 2021, where I got a BA in Computer Science and Media Studies. During my time there, I was part of the HCI Lab where I did research on online health communities for mental health and improving patient-provider collaboration alongside [Prof. Alexandra Papoutsaki](https://cs.pomona.edu/~apapoutsaki/) and [Prof. Daniel Epstein](https://depstein.net/) (University of California, Irvine).
 
 In my free time, you'll find me baking sourdough bread, crocheting, reading fantasy books, watching TV shows or movies, traveling, or playing and listening to music. I love all things history and mythology and am certified as the world’s biggest ice cream fan. I also occasionally make short films for fun 🎥
 
