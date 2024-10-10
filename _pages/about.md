@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Washngton</a>
+subtitle: <a href='https://www.hcde.washington.edu/'>University of Washngton</a>
 
 profile:
   align: right
