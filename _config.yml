@@ -233,7 +233,7 @@ exclude:
   - _pages/cv.md
   - _pages/dropdown.md
   - _pages/projects.md
-  - _pages/repositories.md
+  - _pages/profiles.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
