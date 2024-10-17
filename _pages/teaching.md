@@ -12,7 +12,7 @@ nav_order: 6
         <li>Graded and provided feedback on project milestones.</li>
         <li>Provided in-class feedback and support for a project around designing a culturally sensitive vending machine.</li>
     </ul>
-<h2>HCDE301 – Advanced Communications in HCDE (Winter 2022, Autumn 2023, Winter 2024, Spring 2024)<h2>
+<h2>HCDE301 – Advanced Communications in HCDE (Winter 2022, Autumn 2023, Winter 2024, Spring 2024)</h2>
     <ul>
         <li>Worked with professor to iteratively re-designe and update major assignments to serve student needs and learning objectives.</li> 
         <li>Graded and provided feedback on assignments, reflections, reading responses, in-class discussions and activities.</li>
