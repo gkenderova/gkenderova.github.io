@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.hcde.washington.edu/'>University of Washngton</a>
+subtitle: Ph.D. Research Assistant at the <a href='https://www.hcde.washington.edu/'>University of Washngton</a>
 
 profile:
   align: right
@@ -18,11 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I’m a PhD candidate in <b>Human Centered Design and Engineering</b> (HCDE) at the University of Washington. I am advised by [Sean A. Munson](https://www.smunson.com/) and am currently researching ways to leverage narrative and storytelling to support mental health. I am specifically interested in understanding the impact of stories on our motivation for self-transformation.
+Hi! I’m a PhD candidate in <b>Human Centered Design and Engineering</b> (HCDE) at the University of Washington. I am advised by [Sean A. Munson](https://www.smunson.com/) and am currently researching ways to leverage narrative and storytelling to support mental health. I am specifically interested in understanding the impact of stories on our motivation for self-transformation. I most recently worked on a research project examining the impact of the overturn of Roe v. Wade on period tracking and data privacy perceptions.
 
-I got my MS in HCDE from the University of Washington in 2023. I graduated from <b>Pomona College</b> in 2021, where I got a BA in Computer Science and Media Studies. During my time there, I was part of the <b>HCI Lab</b> where I researched online health communities for mental health and improving patient-provider collaboration alongside [Prof. Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) and [Prof. Daniel Epstein](https://depstein.net/) (University of California, Irvine).
+I got my MS in HCDE from the University of Washington in 2023. I graduated from <b>Pomona College</b> in 2021, where I got a B.A. in Computer Science and Media Studies. During my time there, I was part of the <b>HCI Lab</b> where I researched online health communities for mental health and improving patient-provider collaboration alongside [Prof. Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) and [Prof. Daniel Epstein](https://depstein.net/) (University of California, Irvine).
 
-In my free time, you’ll find me baking sourdough bread, crocheting, reading, traveling, or playing basketball and squash with friends. I love all things history and mythology and am a massive ice cream fan. I also occasionally make short films for fun 🎥
+In my free time, you’ll find me baking sourdough bread, crocheting, reading (non-academic literature!), traveling, or playing sports with friends. I love all things history and mythology and am a massive ice cream fan. I also occasionally make short films for fun 🎥. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
