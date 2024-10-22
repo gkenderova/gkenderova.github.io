@@ -217,7 +217,7 @@ exclude:
   - _pages/cv.md
   - _pages/dropdown.md
   - _pages/repositories.md
-  - _pages/projects.md
+  # - _pages/projects.md
   - _configold.yml
   - CONTRIBUTING.md
   - CUSTOMIZE.md
