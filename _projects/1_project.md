@@ -13,10 +13,10 @@ The overturn of Roe v. Wade led to growing concerns that law enforcement could r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/roevox.jpg" title="Vox Article on Dangers of Period-Tracking Post-Roe" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/roevox.png" title="Vox Article on Dangers of Period-Tracking Post-Roe" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/roenyt.jpg" title="New York Times Article on Dangers of Period-Tracking Post-Roe" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/roenyt.png" title="New York Times Article on Dangers of Period-Tracking Post-Roe" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
