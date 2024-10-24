@@ -32,20 +32,21 @@ related_publications: false
 
 <p>This project began in the summer of 2022 shortly after the overturn of Roe v. Wade. We began recruiting participants at the beginning of August, with the first round of interviews starting a couple of weeks later. We conducted a second round of interviews in January-February 2024 to gain a more longitudinal understanding of any potential changes in privacy perceptions. As of October 2024, we reported our findings and recommendations in a paper soon to be submitted to an academic journal.</p> 
 
-<h3>Meet the Team</h3>
+<h3 align="center">Meet the Team</h3>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/sean.jpg" title="Sean Munson" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="caption">
-        [Sean Munson](https://www.smunson.com/)
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/birrell.jpg" title="Eleanor Birrell" class="img-fluid rounded z-depth-1" %}
     </div>
-        <div class="caption">
-        [Eleanor Birrell](https://cs.pomona.edu/~ebirrell/)
-    </div>
+</div>
+
+<div class="caption">
+    [Sean Munson](https://www.smunson.com/)
+</div>
+<div class="caption">
+    [Eleanor Birrell](https://cs.pomona.edu/~ebirrell/)
 </div>
 
