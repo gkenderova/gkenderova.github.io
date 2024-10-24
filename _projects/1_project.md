@@ -44,10 +44,10 @@ The overturn of Roe v. Wade led to growing concerns that law enforcement could r
         </div>
     </div>
     <div class="row justify-content-sm-center">
-        <div class="caption">
+        <div class="col-sm-2 mt-3 mt-md-0">
             <a href="https://www.smunson.com/" target="_blank">Sean Munson</a>
         </div>
-        <div class="caption">
+        <div class="col-sm-2 mt-3 mt-md-0">
             <a href="https://cs.pomona.edu/~ebirrell/" target="_blank">Eleanor Birrell</a>
         </div>
     </div>
