@@ -1,7 +1,7 @@
 ---
 layout: page
-title: UWell - Mental Wellbeing Through Activity
-description: 
+title: UWell
+description: Mental Wellbeing Through Activity
 img: assets/img/uwell.jpg
 importance: 1
 category: fun
@@ -24,6 +24,7 @@ category: fun
         <p><i>💡 How might we support people's mental well-being goals by providing location-based personalized activity recommendations?</i></p>
     </div>
 </div>
+
 <h5>Proposed Solution</h5>
 <p>UWell is a mobile app that recommends highly-personalized activities that will help you achieve your well-being goals. We take your individual preferences, location, menstrual cycle information, mood, and daily schedule to tailor our recommendations specifically to you.</p>
 
@@ -35,6 +36,7 @@ category: fun
 <p><i>Interviews</i></p>
 <p>The next step we took was to conduct semi-structured interviews so that we can explore more in-depth why people feel a certain way and to understand better their habits around taking care of their mental well-being and stress levels. We conducted a total of 5 interviews.</p>
 
+<!--
 <h5>Key Insights</h5>
 <p></p> 
 
@@ -49,7 +51,7 @@ category: fun
 Wearable extension of UWell application to support users who prioritize on-the-go functionality and better enable users to pursue activity recommendations immediately.
 
 Add more content to help users understand why specific activity recommendations can help improve their mental health.</p>
-
+-->
 <h3 align="center">Meet the Team</h3>
 
 <div class="container">
