@@ -33,7 +33,7 @@ This work resulted in a paper published at CSCW2021. Read the full paper [here](
         It all started with an article published in The New Yorker called ["The Challenge of Going Off Psychiatric Drugs."](https://www.newyorker.com/magazine/2019/04/08/the-challenge-of-going-off-psychiatric-drugs) In this piece, Rachel Aviv describes in detail the struggles of Laura Delano to get off of the medications she was prescribed by her providers. While Laura is an individual case, the article mentions a couple of online forums where people experiencing similar issues come together to seek advice and emotional support, as they embark on their individual journeys of discontinuing psychiatric drugs. One of these communities is Surviving Antidepressants, which we started looking into further, as it was one of the largest and longest-running forums on the topic.
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/laurany.jpg" title="Pictur of Laura Delano" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/laurany.jpg" title="Picture of Laura Delano" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
