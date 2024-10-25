@@ -8,7 +8,7 @@ category: fun
 ---
 
 <h3> What is UWell?</h3>
-<p>UWell is a mobile application that helps adults improve their mood by doing activities. UWell provides custom activity recommendations to users based on their current location, current mood, individual preferences, and menstrual cycle phases. Customizations based on location and menstrual cycle data are both optional and can be disabled. UWell’s activity recommendations for the user will become more personalized over time because users are asked to “like” or “dislike” each activity recommendation after they’ve completed them. UWell helps users make decisions about which activity to do by including distance, ratings, energy level, and price for each activity.</p>
+UWell is a mobile application that helps adults improve their mood by doing activities. UWell provides custom activity recommendations to users based on their current location, current mood, individual preferences, and menstrual cycle phases. Customizations based on location and menstrual cycle data are both optional and can be disabled. UWell’s activity recommendations for the user will become more personalized over time because users are asked to “like” or “dislike” each activity recommendation after they’ve completed them. UWell helps users make decisions about which activity to do by including distance, ratings, energy level, and price for each activity.
 
 <h5>Project Details</h5>
 <p>This project was completed in the Fall of 2021 as part of the graduate course <i>HCDE518: User-Centered Design</i> at the University of Washington. Our project theme was responsible innovation.</p>
@@ -36,22 +36,32 @@ category: fun
 <p><i>Interviews</i></p>
 <p>The next step we took was to conduct semi-structured interviews so that we can explore more in-depth why people feel a certain way and to understand better their habits around taking care of their mental well-being and stress levels. We conducted a total of 5 interviews.</p>
 
-<!--
-<h5>Key Insights</h5>
-<p></p> 
+<h5>Key Insights</h5> 
+<ol>
+<li>Most people we surveyed and interviewed are spending the majority of their time at home, both when doing work and leisure activities.</li>
+<li>53% of respondents feel stressed at least 3-4 days/week.</li>
+<li>More than 80% of survey respondents who identified as female agreed that their menstrual cycle has an impact on their mood; of the people reporting that it had an impact on their stress levels, 94% say it makes them more stressed.</li>
+<li>80% of respondents say that they have not used a technology-based tool to help them track or take care of their mental health.</li>
+</ol>
 
 <h5>Design Goals</h5>
+<ul>
+<li>Help users achieve and maintain overall good mental health and stress levels</li>
+<li>Help users discover new activities near them that can improve their mental health and assist them with relieving stress</li>
+<li>Help users gain a better understanding of how their menstrual cycle affects their stress levels, mood, and mental health</li>
+<li>Encourage users to decrease screen time, become more active, and spend more time outside</li>
+</ul>
 
 <h5>Ideation & Brainstorming</h5>
 <p>We brainstormed different types of activity recommendations to display to users and how they would interact with our interface to discover these activities. As users interact with the interface over time, they can give feedback by liking or disliking recommendations and also update their preferences so that activity recommendations can improve and be more personalized to each user.</p>
 
 <h5>What's Next</h5>
-<p>We've received constructive feedback on how UWell could be improved, these changes were not addressed during our course project but offer different areas of improvement for the next iteration of UWell. Some suggestions include:
+We've received constructive feedback on how UWell could be improved, these changes were not addressed during our course project but offer different areas of improvement for the next iteration of UWell. Some suggestions include:
 
 Wearable extension of UWell application to support users who prioritize on-the-go functionality and better enable users to pursue activity recommendations immediately.
 
-Add more content to help users understand why specific activity recommendations can help improve their mental health.</p>
--->
+Add more content to help users understand why specific activity recommendations can help improve their mental health.
+
 <h3 align="center">Meet the Team</h3>
 
 <div class="container">
