@@ -13,6 +13,17 @@ Read the full paper [here](https://dl.acm.org/doi/10.1145/3491102.3502206).
 
 More details about this project <b>soon</b>!
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 align-self-center">
+        <h4 align="center">What I Did:</h4>
+        <ul>
+            <li>Conducted a <b><i>literature review</i></b>.</li>
+            <li>Conducted <b><i>semi-structured interviews</i></b> with providers</li>
+            <li><b><i>Sketched wireframes</i></b> and designed <b><i>low and high-fidelity prototypes</i></b> using Adobe XD that were then used to develop a web app.</li>
+        </ul>
+    </div>
+</div>
+
 <h3 align="center">Meet the Team</h3>
 
 <div class="container">
