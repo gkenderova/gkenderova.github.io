@@ -18,7 +18,7 @@ More details about this project <b>soon</b>!
         <h4 align="center">What I Did:</h4>
         <ul>
             <li>Conducted a <b><i>literature review</i></b>.</li>
-            <li>Conducted <b><i>semi-structured interviews</i></b> with providers</li>
+            <li>Conducted <b><i>semi-structured interviews</i></b> with providers.</li>
             <li><b><i>Sketched wireframes</i></b> and designed <b><i>low and high-fidelity prototypes</i></b> using Adobe XD that were then used to develop <a href="https://github.com/pielab-uci/antidepressant-tapering" target="_blank">a web app</a>.</li>
         </ul>
     </div>
