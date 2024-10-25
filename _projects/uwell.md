@@ -6,12 +6,12 @@ img: assets/img/uwell.jpg
 importance: 1
 category: class
 ---
-<div class="row align-items-center">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <h3> What is UWell?</h3>
         <p>UWell is a mobile application that helps adults improve their mood by doing activities. UWell provides custom activity recommendations to users based on their current location, current mood, individual preferences, and menstrual cycle phases. Customizations based on location and menstrual cycle data are both optional and can be disabled. UWell’s activity recommendations for the user will become more personalized over time because users are asked to “like” or “dislike” each activity recommendation after they’ve completed them. UWell helps users make decisions about which activity to do by including distance, ratings, energy level, and price for each activity.</p>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 align-self-center">
         <h4><b>What I Did</b></h4>
         <ul>
             <li>Conducted literature review</li>
