@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UWell: Mental Wellbeing Through Activity
+title: UWell - Mental Wellbeing Through Activity
 description: 
 img: assets/img/uwell.jpg
 importance: 1
