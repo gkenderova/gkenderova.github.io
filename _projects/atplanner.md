@@ -3,7 +3,7 @@ layout: page
 title: AT Planner
 description: Examining how we can help providers design effective tapers.
 img: assets/img/atplan.png
-importance: 3
+importance: 2
 category: work
 ---
 This is the second part of a research project with advisors [Alexandra Papoutsaki](https://cs.pomona.edu/~apapoutsaki/) (Pomona College) and [Daniel Epstein](https://depstein.net/) (University of California, Irvine) on tapering antidepressants. This part focuses on designing and developing a platform to assist providers with creating and sharing tapering schedules with their patients.
