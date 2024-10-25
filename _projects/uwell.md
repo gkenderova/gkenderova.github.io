@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Overturn of Roe v. Wade and Period Tracking
-description: Understanding privacy concerns of users of period tracking apps post-Roe.
+title: UWell: Mental Wellbeing Through Activity
+description: 
 img: assets/img/uwell.jpg
 importance: 1
 category: fun
