@@ -11,7 +11,7 @@ category: fun
 <p>UWell is a mobile application that helps adults improve their mood by doing activities. UWell provides custom activity recommendations to users based on their current location, current mood, individual preferences, and menstrual cycle phases. Customizations based on location and menstrual cycle data are both optional and can be disabled. UWell’s activity recommendations for the user will become more personalized over time because users are asked to “like” or “dislike” each activity recommendation after they’ve completed them. UWell helps users make decisions about which activity to do by including distance, ratings, energy level, and price for each activity.</p>
 
 <h4>Project Details</h4>
-<p>This project was completed in the Fall of 2021 as part of the graduate course HCDE518: User-Centered Design at the University of Washington. Our project theme was responsible innovation.</p>
+<p>This project was completed in the Fall of 2021 as part of the graduate course <i>HCDE518: User-Centered Design</i> at the University of Washington. Our project theme was responsible innovation.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,7 +21,7 @@ category: fun
         <h4>Motivation</h4>
         <p>Due to the COVID-19 pandemic, a lot of us are spending much more time inside. We are also experiencing an incredible amount of stress and anxiety, which can negatively impact our mental and physical health. While there are many tools that allow people to track their mood and mental health, as well as exercise mindfulness, there isn't much that combines all of these together in one cohesive solution.</p>
         <h4>Design Question</h4>
-        <p><i>💡How might we support people's mental well-being goals by providing location-based personalized activity recommendations?</i></p>
+        <p><i>💡 How might we support people's mental well-being goals by providing location-based personalized activity recommendations?</i></p>
         <h4>Proposed Solution</h4>
         <p>UWell is a mobile app that recommends highly-personalized activities that will help you achieve your well-being goals. We take your individual preferences, location, menstrual cycle information, mood, and daily schedule to tailor our recommendations specifically to you.</p>
     </div>
