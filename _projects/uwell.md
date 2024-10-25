@@ -7,10 +7,10 @@ importance: 1
 category: fun
 ---
 
-<h3> What is UWell </h3>
+<h3> What is UWell?</h3>
 <p>UWell is a mobile application that helps adults improve their mood by doing activities. UWell provides custom activity recommendations to users based on their current location, current mood, individual preferences, and menstrual cycle phases. Customizations based on location and menstrual cycle data are both optional and can be disabled. UWell’s activity recommendations for the user will become more personalized over time because users are asked to “like” or “dislike” each activity recommendation after they’ve completed them. UWell helps users make decisions about which activity to do by including distance, ratings, energy level, and price for each activity.</p>
 
-<h4>Project Details</h4>
+<h5>Project Details</h5>
 <p>This project was completed in the Fall of 2021 as part of the graduate course <i>HCDE518: User-Centered Design</i> at the University of Washington. Our project theme was responsible innovation.</p>
 
 <div class="row">
@@ -18,21 +18,37 @@ category: fun
         {% include figure.liquid loading="eager" path="assets/img/uwell.jpg" title="UWell screens" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <h4>Motivation</h4>
+        <h5>Motivation</h5>
         <p>Due to the COVID-19 pandemic, a lot of us are spending much more time inside. We are also experiencing an incredible amount of stress and anxiety, which can negatively impact our mental and physical health. While there are many tools that allow people to track their mood and mental health, as well as exercise mindfulness, there isn't much that combines all of these together in one cohesive solution.</p>
-        <h4>Design Question</h4>
+        <h5>Design Question</h5>
         <p><i>💡 How might we support people's mental well-being goals by providing location-based personalized activity recommendations?</i></p>
-        <h4>Proposed Solution</h4>
-        <p>UWell is a mobile app that recommends highly-personalized activities that will help you achieve your well-being goals. We take your individual preferences, location, menstrual cycle information, mood, and daily schedule to tailor our recommendations specifically to you.</p>
     </div>
 </div>
+<h5>Proposed Solution</h5>
+<p>UWell is a mobile app that recommends highly-personalized activities that will help you achieve your well-being goals. We take your individual preferences, location, menstrual cycle information, mood, and daily schedule to tailor our recommendations specifically to you.</p>
 
-<h4>Research Question:</h4>
+<h5>User Research</h5>
+<p><i>Literature Review</i></p>
+<p>The first step of our user research was to review prior literature and see what is already known about how people take care of their mental well-being. We reviewed a total of 17 papers and articles. We also looked at what is currently available on the market and what are the gaps that no one is addressing.</p>
+<p><i>Surveys</i></p>
+<p>The second research method we used was a survey that we posted in a couple of Facebook groups. Our goal was to gauge how stressed people are and if there is a connection between one's menstrual cycle and their stress levels/mood. We received a total of 30 responses.</p>
+<p><i>Interviews</i></p>
+<p>The next step we took was to conduct semi-structured interviews so that we can explore more in-depth why people feel a certain way and to understand better their habits around taking care of their mental well-being and stress levels. We conducted a total of 5 interviews.</p>
 
+<h5>Key Insights</h5>
+<p></p> 
 
-<h3>Project Timeline</h3>
+<h5>Design Goals</h5>
 
-<p>This project began in the summer of 2022 shortly after the overturn of Roe v. Wade. We began recruiting participants at the beginning of August, with the first round of interviews starting a couple of weeks later. We conducted a second round of interviews in January-February 2024 to gain a more longitudinal understanding of any potential changes in privacy perceptions. As of October 2024, we reported our findings and recommendations in a paper soon to be submitted to an academic journal.</p> 
+<h5>Ideation & Brainstorming</h5>
+<p>We brainstormed different types of activity recommendations to display to users and how they would interact with our interface to discover these activities. As users interact with the interface over time, they can give feedback by liking or disliking recommendations and also update their preferences so that activity recommendations can improve and be more personalized to each user.</p>
+
+<h5>What's Next</h5>
+<p>We've received constructive feedback on how UWell could be improved, these changes were not addressed during our course project but offer different areas of improvement for the next iteration of UWell. Some suggestions include:
+
+Wearable extension of UWell application to support users who prioritize on-the-go functionality and better enable users to pursue activity recommendations immediately.
+
+Add more content to help users understand why specific activity recommendations can help improve their mental health.</p>
 
 <h3 align="center">Meet the Team</h3>
 
