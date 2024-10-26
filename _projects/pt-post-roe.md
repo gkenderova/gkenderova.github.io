@@ -26,8 +26,13 @@ We analyzed the data using a thematic analysis approach and found that, while mo
 
 <h3>Research Question:</h3>
 
-<i>"How have people changed the way they track their period in response to the Supreme Court’s decision to overrule Roe v. Wade?"</i>
-<i>"How have people's perceptions of period data privacy changed in response to the Supreme Court’s decision to overrule Roe v. Wade?"</i>
+<ul>
+    <li><i>"How have people changed the way they track their period in response to the Supreme Court’s decision to overrule Roe v. Wade?"</i></li>
+    <li><i>"How have people's perceptions of period data privacy changed in response to the Supreme Court’s decision to overrule Roe v. Wade?"</i></li>
+</ul>
+
+
+
 
 
 <h3>Project Timeline</h3>
