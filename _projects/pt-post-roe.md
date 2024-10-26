@@ -8,7 +8,8 @@ category: work
 related_publications: false
 ---
 
-The U.S. Supreme Court's overturn of Roe v. Wade led to growing concerns that law enforcement could request and use in court the personal data users share with period tracking apps ([Vox](https://www.vox.com/recode/2022/7/6/23196809/period-apps-roe-dobbs-data-privacy-abortion), [NYTimes](https://www.nytimes.com/2022/06/30/technology/period-tracker-privacy-abortion.html)). The media’s initial focus on the threats to period data privacy in a post-Roe context and resulting recommendations to delete period tracking apps begged the question: were people in fact making any changes in how they monitor their period in response to the overturn? In this research, we examined if and how users are reacting to the Supreme Court decision and these calls from the media by recruiting participants from [states directly impacted by the overrule](https://www.nytimes.com/interactive/2024/us/abortion-laws-roe-v-wade.html). We conducted two rounds of semi-structured interviews with 22 participants (a total of 27 interviews) from 9 different U.S. states. In these conversations, we inquired about people’s period-tracking habits, privacy concerns regarding period tracking apps, and the impact of the Supreme Court’s decision on their period-tracking, other online behavior, and their daily lives. 
+The U.S. Supreme Court's overturn of Roe v. Wade led to growing concerns that law enforcement could request and use in court the personal data users share with period tracking apps ([Vox](https://www.vox.com/recode/2022/7/6/23196809/period-apps-roe-dobbs-data-privacy-abortion), [NYTimes](https://www.nytimes.com/2022/06/30/technology/period-tracker-privacy-abortion.html)). The media’s initial focus on the threats to period data privacy in a post-Roe context and resulting recommendations to delete period tracking apps begged the question: were people in fact making any changes in how they monitor their period in response to the overturn? In this research, we examined if and how users are reacting to the Supreme Court decision and these calls from the media by recruiting participants from [states directly impacted by the overrule](https://www.nytimes.com/interactive/2024/us/abortion-laws-roe-v-wade.html). We conducted two rounds of semi-structured interviews with 22 participants (a total of 27 interviews) from 9 different U.S. states. In these conversations, we inquired about people’s period-tracking habits, privacy concerns regarding period tracking apps, and the impact of the Supreme Court’s decision on their period-tracking, other online behavior, and their daily lives.
+
 We analyzed the data using a thematic analysis approach and found that, while most people were concerned about how their period data might be used in a post-Roe context, very few were making concrete changes, such as deleting their menstrual trackers. The lack of clarity on how the law applies to this health information was worrisome for many but, for the most part, was not concerning enough to inspire more drastic change in their use of period trackers. Nevertheless, some participants were making changes in their daily lives (e.g., re-locating or getting permanent birth control) and a few even increased how much they track as a way to prevent unwanted pregnancy and any potential resulting "wrestling with the law."
 
 
@@ -24,11 +25,11 @@ We analyzed the data using a thematic analysis approach and found that, while mo
     On the left, a 2022 article by Vox discussing the potential dangers of period tracking post-Roe. On the right, a The New York Times article highlights other dangers to privacy after the overturn.
 </div>
 
-<h3>Research Question:</h3>
+<h3>Research Questions:</h3>
 
 <ul>
-    <li><i>"How have people changed the way they track their period in response to the Supreme Court’s decision to overrule Roe v. Wade?"</i></li>
-    <li><i>"How have people's perceptions of period data privacy changed in response to the Supreme Court’s decision to overrule Roe v. Wade?"</i></li>
+    <li><i>How have people changed the way they track their period in response to the Supreme Court’s decision to overrule Roe v. Wade?</i></li>
+    <li><i>How have people's perceptions of period data privacy changed in response to the Supreme Court’s decision to overrule Roe v. Wade?</i></li>
 </ul>
 
 
