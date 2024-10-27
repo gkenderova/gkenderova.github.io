@@ -29,4 +29,4 @@ We started our project with a pilot study to vet our process. Based on the feedb
 
 After completing the main tasks, we administered post-task surveys and a post-study questionnaire. We were able to gather quantitative data that allowed us to rate the system's usability. Further, we conducted short semi-structured interviews before the beginning of the study, after each task, and at the end of the session. The short semi-structured interviews complemented our quantitative analysis findings, allowing us to understand the specific pain points of participants and dig deeper into what participants thought about the system.
 
-Read full report <a href="../../assets/pdf/HCDE517_Final_Report.pdf" target="_blank">here.</a>
+Read full report <a href="https://gkenderova.github.io/assets/pdf/HCDE517_Final_Report.pdf" target="_blank">here.</a>
