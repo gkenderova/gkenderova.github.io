@@ -40,7 +40,7 @@ We analyzed the data using a thematic analysis approach and found that, while mo
 
 <p>This project began in the summer of 2022 shortly after the overturn of Roe v. Wade. We started recruiting participants at the beginning of August, with the first round of interviews commencing a couple of weeks later. We conducted a second round of interviews in January and February of 2024 to gain a more longitudinal understanding of any potential changes in privacy perceptions. As of October 2024, we reported our findings and recommendations in a paper soon to be submitted to an academic journal.</p> 
 
-<h3 align="center">Meet the Team</h3>
+<h3 align="center">Meet the Rest of the Team</h3>
 
 <div class="container">
     <div class="row justify-content-sm-center">
