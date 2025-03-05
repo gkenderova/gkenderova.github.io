@@ -6,12 +6,18 @@ description:
 nav: true
 nav_order: 6
 ---
+<h3>INFO360 - Design Methods (Winter 2025)</h3>
+<ul>
+<li>Graded and provided feedback for weekly activities and journals for 68 undergraduate students.</li>
+<li>Graded and provided detailed feedback on final project milestones and deliverables.</li>
+
 <h3>HCDE512 - International User Experience And Communication (Autumn 2024)</h3>
 <ul>
 <li>Graded and provided feedback for weekly reflections for 18 graduate students.</li>
 <li>Graded and provided feedback on project milestones.</li>
 <li>Provided in-class feedback and support for a project around designing a culturally sensitive vending machine.</li>
 </ul>
+
 <h3>HCDE301 – Advanced Communications in HCDE (Winter 2022, Autumn 2023, Winter 2024, Spring 2024)</h3>
 <ul>
 <li>Worked with professor to iteratively re-design and update major assignments to serve student needs and learning objectives.</li> 
