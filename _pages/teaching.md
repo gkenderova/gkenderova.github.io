@@ -8,7 +8,7 @@ nav_order: 6
 ---
 <h3>INFO360 - Design Methods (Winter 2025)</h3>
 <ul>
-<li>Graded and provided feedback for weekly activities and journals for 68 undergraduate students.</li>
+<li>Graded and provided feedback for weekly activities and reflections for 68 undergraduate students.</li>
 <li>Graded and provided detailed feedback on final project milestones and deliverables.</li>
 
 <h3>HCDE512 - International User Experience And Communication (Autumn 2024)</h3>
