@@ -10,6 +10,7 @@ nav_order: 6
 <ul>
 <li>Graded and provided feedback for weekly activities and reflections for 68 undergraduate students.</li>
 <li>Graded and provided detailed feedback on final project milestones and deliverables.</li>
+</ul>
 
 <h3>HCDE512 - International User Experience And Communication (Autumn 2024)</h3>
 <ul>
