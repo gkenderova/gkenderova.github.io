@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AT Planner
-description: Examining how we can help providers design effective tapers.
+description: Examining how we can help medical providers design effective tapering schedules for psychiatric drugs.
 img: assets/img/atplan.png
 importance: 2
 category: work
