@@ -16,9 +16,11 @@ category: class
         <ul>
             <li>Conducted <b><i>literature review</i></b></li>
             <li>Wrote and distributed <b><i>surveys</i></b></li>
-            <li>Conducted multiple <b><i>semi-structured interviews</i></b></li>
+            <li>Developed interview script and conducted <b><i>semi-structured interviews</i></b></li>
             <li><b><i>Analyzed data</i></b> to inform main goals and design of app</li>
-            <li>Made a <b><i>high-fidelity prototype</i></b> using Figma</li>
+            <li>Created storyboards, screen sketches, personas to inform final design</li>
+            <li>Developed a <b><i>high-fidelity prototype</i></b> using Figma</li>
+            <li>Presented findings and insights in a showcase and in a written report</li>
         </ul>
     </div>
 </div>
@@ -71,9 +73,12 @@ category: class
 <h5>What's Next</h5>
 We've received constructive feedback on how UWell could be improved, these changes were not addressed during our course project but offer different areas of improvement for the next iteration of UWell. Some suggestions include:
 
-Wearable extension of UWell application to support users who prioritize on-the-go functionality and better enable users to pursue activity recommendations immediately.
+<ul>
+    <li>Wearable extension of UWell application to support users who prioritize on-the-go functionality and better enable users to pursue activity</li> recommendations immediately.
+    <li></li>Add more content to help users understand why specific activity recommendations can help improve their mental health.</li>
+</ul>
 
-Add more content to help users understand why specific activity recommendations can help improve their mental health.
+See full <a href="https://gkenderova.github.io/assets/pdf/Design_Proposal.pdf" target="_blank">design proposal</a> and <a href="https://gkenderova.github.io/assets/pdf/User_Research_Personas.pdf" target="_blank">user research findings</a>.
 
 <h3 align="center">Meet the Team</h3>
 
