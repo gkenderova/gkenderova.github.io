@@ -74,8 +74,8 @@ category: class
 We've received constructive feedback on how UWell could be improved, these changes were not addressed during our course project but offer different areas of improvement for the next iteration of UWell. Some suggestions include:
 
 <ul>
-    <li>Wearable extension of UWell application to support users who prioritize on-the-go functionality and better enable users to pursue activity</li> recommendations immediately.
-    <li></li>Add more content to help users understand why specific activity recommendations can help improve their mental health.</li>
+    <li>Wearable extension of UWell application to support users who prioritize on-the-go functionality and better enable users to pursue activity recommendations immediately.</li>
+    <li>Add more content to help users understand why specific activity recommendations can help improve their mental health.</li>
 </ul>
 
 See full <a href="https://gkenderova.github.io/assets/pdf/Design_Proposal.pdf" target="_blank">design proposal</a> and <a href="https://gkenderova.github.io/assets/pdf/User_Research_Personas.pdf" target="_blank">user research findings</a>.
