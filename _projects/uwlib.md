@@ -7,7 +7,7 @@ importance: 2
 category: class
 ---
 
-This is a quarter-long usability study project for HCDE517: Usability Study, done in Winter 2022.
+This is a quarter-long usability study project for HCDE517: Usability Studies, completed in Winter 2022.
 
 <h3>About the Project</h3>
 Our team of four executed a usability study of the library website of the University of Washiington (UW), specifically, examining the flow of reserving a study room. We conducted this study with students at UW's Seattle campus, the intended users of the room-reserving system. 
