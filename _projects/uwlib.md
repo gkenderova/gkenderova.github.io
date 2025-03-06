@@ -29,6 +29,7 @@ We started our project with a pilot study to vet our process. Based on the feedb
 
 After completing the main tasks, we administered post-task surveys and a post-study questionnaire. We were able to gather quantitative data that allowed us to rate the system's usability. Further, we conducted short semi-structured interviews before the beginning of the study, after each task, and at the end of the session. The short semi-structured interviews complemented our quantitative analysis findings, allowing us to understand the specific pain points of participants and dig deeper into what participants thought about the system.
 
+<h5>What I Did</h5>
 My role in the process was to work on and iterate on the [consent form](https://drive.google.com/file/d/1msVe1BWqV_6q8ZiMq_D2e5hKVMhgT0wN/view?usp=sharing), screener, surveys, interview script, usability testing scenarios and tasks, and recruit for and do the pilot study. Additionally, I also recruited participants for the actual usability testing and moderated the sessions, interviewing participants at the end. I also contributed to writing the report, working on all sections.
 
 Read full report <a href="https://gkenderova.github.io/assets/pdf/HCDE517_Final_Report.pdf" target="_blank">here.</a>
