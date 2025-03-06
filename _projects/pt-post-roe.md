@@ -16,6 +16,7 @@ The U.S. Supreme Court's overturn of Roe v. Wade in 2022 led to growing concerns
 <ul>
     <li><i>How have people changed the way they track their period in response to the Supreme Court’s decision to overrule Roe v. Wade?</i></li>
     <li><i>How have people's perceptions of period data privacy changed in response to the Supreme Court’s decision to overrule Roe v. Wade?</i></li>
+    <li><i>What factors influence the decision-making process behind choosing to use (or not use) various mitigation strategies?</i></li>
 </ul>
 
 After the overturn, each state was able to decide for itself how to deal with the issue of abortion. As a result, in our recruitment, we consciously made the choice to seek out participants that resided in [states more directly impacted by the overrule](https://www.nytimes.com/interactive/2024/us/abortion-laws-roe-v-wade.html). This was done because we believed these folks would predominantly be the ones having to make changes and consider the new legal landscape when thinking about their period tracking.
