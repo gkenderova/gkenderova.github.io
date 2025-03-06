@@ -9,7 +9,7 @@ category: work
 This is the second part of a research project with advisors [Alexandra Papoutsaki](https://cs.pomona.edu/~apapoutsaki/) (Pomona College) and [Daniel Epstein](https://depstein.net/) (University of California, Irvine) on tapering antidepressants. This part focuses on designing and developing a platform to assist providers with creating and sharing tapering schedules with their patients.
 
 This work resulted in a paper accepted at CHI2022 🥳
-Read the full paper [here](https://dl.acm.org/doi/10.1145/3491102.3502206).
+Read the full paper [here](https://dl.acm.org/doi/10.1145/3491102.3502206). See the web app [here](https://pielab-uci.github.io/antidepressant-tapering/#/)
 
 More details about this project <b>soon</b>!
 
