@@ -88,10 +88,10 @@ See full <a href="https://gkenderova.github.io/assets/pdf/Design_Proposal.pdf" t
         {% include figure.liquid path="assets/img/prof_pic.jpg" title="Georgia Kenderova" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-sm-2 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/melinda.jpg" title="Eleanor Birrell" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/melinda.jpg" title="Melinda Lam" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-sm-2 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/natasha.jpg" title="Eleanor Birrell" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/natasha.jpg" title="Natasha Paul Stephen" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
     <div class="row justify-content-sm-center">
@@ -99,10 +99,10 @@ See full <a href="https://gkenderova.github.io/assets/pdf/Design_Proposal.pdf" t
             <div class="caption">Georgia Kenderova</div>
         </div>
         <div class="col-sm-2 mt-3 mt-md-0">
-            <div class="caption">Melinda Lam</div>
+            <div class="caption"><a href="https://www.melindal.com/" target="_blank">Melinda Lam</a></div>
         </div>
         <div class="col-sm-2 mt-3 mt-md-0">
-            <div class="caption">Natasha Paul Stephen</div>
+            <div class="caption"><a href="https://www.natashapaulstephen.com/" target="_blank">Natasha Paul Stephen</a></div>
         </div>
     </div>
 </div>
